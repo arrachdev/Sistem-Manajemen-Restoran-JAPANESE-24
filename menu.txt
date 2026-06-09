@@ -1,0 +1,7 @@
+Makanan,Ramen Shoyu,35000.0,Mie
+Makanan,Chicken Katsu,28000.0,Goreng
+Makanan,Sushi Salmon,45000.0,Seafood
+Minuman,Ocha Dingin,8000.0,Minuman Dingin
+Minuman,Matcha Latte,18000.0,Minuman Panas
+Diskon,Diskon Weekend,10.0
+Makanan,Ramen,11000.0,Mie
